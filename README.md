@@ -59,6 +59,7 @@ Este projeto está em desenvolvimento contínuo! Algumas funcionalidades que pla
 
 * **LinkedIn:** https://www.linkedin.com/in/manuelaisalgado/
 
-  
+  ![Captura de tela 2025-05-28 040244](https://github.com/user-attachments/assets/87fc8e2a-44eb-49ba-b1a5-39b940c4ffc3)
+
 
 ---
